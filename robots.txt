@@ -1,0 +1,5 @@
+# Public origin: https://davidcosmin42-stack.github.io/porch-ledger-site/
+User-agent: *
+Allow: /
+
+Sitemap: https://davidcosmin42-stack.github.io/porch-ledger-site/sitemap.xml
