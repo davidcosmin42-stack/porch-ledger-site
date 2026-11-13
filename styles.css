@@ -161,6 +161,7 @@ footer a:hover { text-decoration: underline; }
   border-top: 1px solid var(--cream-dark);
 }
 .more-guides ul { margin-bottom: 0; }
+.guide-cards { grid-template-columns: repeat(2, 1fr); }
 .guide-cards .card h3 { font-size: 1.2rem; }
 .guide-cards .card p { color: var(--muted); flex: 1; }
 
